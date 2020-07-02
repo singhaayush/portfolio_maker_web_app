@@ -1,0 +1,17 @@
+body
+{
+    margin: unset;
+    padding: unset;
+}
+img
+{
+   height: 100%;
+    width: 100%;
+}
+#login-form
+{
+    height: 500px;
+    width: 100%;
+    margin: auto;
+
+}
